@@ -17,6 +17,6 @@
 ### WSDM Cup - Multilingual Chatbot Arena
 - **官网**：[Kaggle](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena)
 - **名次**：银牌,46/950
-- **问题**：prompt工程
+- **问题**：聊天机器人,蒸馏,合成数据
 - **方案**：[Kaggle_Eedi - Mining Misconceptions in Mathematics](WSDM)
 - **关键词**： 蒸馏,GPTQ量化
